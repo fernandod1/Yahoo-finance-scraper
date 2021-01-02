@@ -3,7 +3,7 @@ import sys
 import requests
 
 # Copyright (c) 2020 Fernando
-# Url: https://github.com/dlfernando/
+# Url: https://github.com/fernandod1/
 # License: MIT
 
 def writefile(filename, value):
